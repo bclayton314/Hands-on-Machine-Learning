@@ -1,3 +1,13 @@
-# test
+# Notes for Chapter 1
 
-actual notes
+## Types of ML Systems
+
+
+
+## Challenges in ML
+
+
+## Testing and Validating
+
+
+
