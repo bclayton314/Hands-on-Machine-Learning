@@ -29,8 +29,12 @@ Semisupervised Learning: Some algorithms can deal with data that’s partially l
 Reinforcement Learning: The learning system, called an agent in this context, can observe the environment, select and perform actions, and get rewards in return (or penalties in the form of negative rewards).
 
 ### Batch and Online Learning
+In batch learning, the system is incapable of learning incrementally: it must be trained using all the available data. This will generally take a lot of time and computing resources, so it is typically done offline. First the system is trained, and then it is launched into production and runs without learning anymore; it just applies what it has learned. This is called offline learning.
 
-### Other vocabulary  
+In online learning, you train the system incrementally by feeding it data instances sequentially, either individually or in small groups called mini-batches. Each learning step is fast and cheap, so the system can learn about new data on the fly.
+
+
+### Other vocabulary
 attribute: a data type.  
 feature: an attribute plus its value.  
 labels: the correct or expected output values associated with input data, used to train supervised learning models. They provide the ground truth that the model learns to predict or classify. Essentially, labels are the answers to the questions the model is trying to learn to answer.  
