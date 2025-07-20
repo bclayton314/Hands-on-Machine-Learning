@@ -64,6 +64,10 @@ Model-based learning: build a model from a set of examples and use that model to
 *The Unreasonable Effectiveness of Data - algorithms are important, but good quality data is more important.  
 
 ## Testing and Validating
+-Training set / Test set  
+-Cross-validation  
+-Validation set
+-Train-dev set
 
 ### Other vocabulary
 attribute: a data type.  
