@@ -35,6 +35,25 @@ Test sets can be 20% of the dataset but special steps must be taken to ensure th
   *The book displays some useful Python functions to achieve this: the test set will remain isolated from the rest of the data using the row numbers as a unique identifier.
   *It might not be possible to use the row number as a unique identifier
 
+The book at first only considers purely random sampling (This is generally fine if your dataset is large enough (especially relative to the number of attributes)). Then the book explains stratified sampling with an emphasis on median income to predict median house prices.  
+
+*Scikit-Learn's StratifiedShuffleSplit
+**The book also has sample code to compare 2 different test_sets obtained using: random-sampling vs. startified sampling
+
+### Visualizing the Data
+*(See the Jupyter Notebook code for this section)
+
+### Looking for Correlations
+.corr(), scatter_matrix()
+
+-Big takeaway: from the plots, clearly median_house_values are strongly correlated with median_income
+
+    **The correlation coefficient only measures linear correlations (“if x goes up, then y generally goes up/down”). It may completely miss out on nonlinear relationships (e.g., “if x is close to 0, then y generally goes up”). Note how all the plots of the bottom row have a correlation coefficient equal to 0, despite the fact that their axes are clearly not independent: these are examples of nonlinear relationships. Also, the second row shows examples where the correlation coefficient is equal to 1 or –1; notice that this has nothing to do with the slope. For example, your height in inches has a correlation coefficient of 1 with your height in feet or in nanometers.  
+
+### Attribute Combinations
+-this was a short section to help simplify the data and perhaps gain even more insight especially if you're dealing with data that has slightly unusual attributes (i.e. bedrooms_per_room)
+
+## Prepare the Data for Machine Learning Algorithms
 
 
 ## Example text
