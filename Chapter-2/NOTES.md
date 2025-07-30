@@ -1,3 +1,7 @@
 # Notes for Chapter 2
 
-Test message
+## Example text
+
+### Example text
+
+
