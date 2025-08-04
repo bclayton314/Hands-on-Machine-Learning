@@ -53,7 +53,9 @@ The book at first only considers purely random sampling (This is generally fine 
 ### Attribute Combinations
 -this was a short section to help simplify the data and perhaps gain even more insight especially if you're dealing with data that has slightly unusual attributes (i.e. bedrooms_per_room)
 
-## Prepare the Data for Machine Learning Algorithms
+
+# Prepare the Data for Machine Learning Algorithms
+pg. 62
 
 
 ## Example text
