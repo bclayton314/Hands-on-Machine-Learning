@@ -15,7 +15,8 @@
 ### Probability & Stats  
 
 ### Resources
-Khan vids, ML book, statquest, ( Ng’s ML - Stanford, Matric calculus - MIT)  
+Khan vids, ML book, statquest, Ng’s ML - Stanford   
 Stanford - [CS109(probability), Deep Learning, Entrepreneurship]
 -R. McElreath, Statistical Rethinking
+MIT - Intro to Deep Learning
 
