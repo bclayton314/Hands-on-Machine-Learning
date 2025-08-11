@@ -10,13 +10,13 @@
 -Limits  
   -useful for calculations involving indeterminate values i.e. infinity, single points on curves, slopes with only a point, areas of curves
 
-## Linear Algebra
+## Linear Algebra  
 
 ### Probability & Stats  
 
-### Resources
+### Resources  
 Khan vids, ML book, statquest, Ng’s ML - Stanford   
-Stanford - [CS109(probability), Deep Learning, Entrepreneurship]
--R. McElreath, Statistical Rethinking
-MIT - Intro to Deep Learning
+Stanford - [CS109(probability), Deep Learning, Entrepreneurship]  
+-R. McElreath, Statistical Rethinking  
+MIT - Intro to Deep Learning  
 
