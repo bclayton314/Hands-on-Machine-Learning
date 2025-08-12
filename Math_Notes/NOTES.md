@@ -1,5 +1,12 @@
 # Random for Now
 
+## Matrix Calculus for Deep Learning  
+-vector calculus and partial derivatives  
+-Generalization of the Jacobian  
+-Derivatives of vector element-wise binary operators  
+-Derivatives involving scalar expansion  
+
+
 ## CALCULUS
 -Derivatives  
   -calculates rates of change, slope of a single point  
@@ -19,4 +26,10 @@ Khan vids, ML book, statquest, Ng’s ML - Stanford
 Stanford - [CS109(probability), Deep Learning, Entrepreneurship]  
 -R. McElreath, Statistical Rethinking  
 MIT - Intro to Deep Learning  
+
+
+
+
+
+
 
